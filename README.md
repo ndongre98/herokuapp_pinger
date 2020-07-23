@@ -1,20 +1,18 @@
 # Mac OS herokuapp_pinger
 A script to ping the heroku app dyno and prevent it from sleeping, with the notification for Mac OS for success and failure. This is a forked version of [sharadcodes/herokuapp_pinger](https://github.com/sharadcodes/herokuapp_pinger) that is Mac OS-specific.
 
-# SETUP
-
 ## Requirements
 
 * crontab
 * curl
 
-## STEPS
+## Set Up
 
-### First of all clone the repository or download it
+### Clone or download the repository
 
 If you choose to download the files, be sure to rename `herokuapp_pinger_master` to `herokuapp_pinger`.
 
-#### Now follow the steps
+### Follow the steps below for installation
 
 1. Move the repository folder inside the `/Users/${USER}/` directory. This should be your ROOT user directory.
 
